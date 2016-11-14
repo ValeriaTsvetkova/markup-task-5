@@ -143,8 +143,7 @@
     color: #ddd;
     float: right;
     margin: 10px 0;
-    font-size: 1.25em;
-    font-family: FontAwesome;
+    font: 1.25em FontAwesome;
 }
 
 .rating > input:checked ~ label,
